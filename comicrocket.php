@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Comic Rocket Ad Network Plugin
+Plugin Name: Comic Rocket Ad Network Widget
 Plugin URI: https://www.comic-rocket.com/
 Description: Easily include Comic Rocket's network ad box on your webcomic!
 Version: 0.5

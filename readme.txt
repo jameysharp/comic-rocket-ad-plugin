@@ -1,4 +1,4 @@
-=== Comic Rocket Ad Network Plugin ===
+=== Comic Rocket Ad Network Widget ===
 Contributors: frumph, comic-rocket
 Tags: ads, comic, webcomic, widget, comicrocket
 Requires at least: 3.5.1
