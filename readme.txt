@@ -1,43 +1,37 @@
-=== Comic Rocket Widget ===
-Contributors: frumph, yourusernameonwordpress.org
-Tags: comic, webcomic, widget, comicrocket
+=== Comic Rocket Ad Network Plugin ===
+Contributors: frumph, comic-rocket
+Tags: ads, comic, webcomic, widget, comicrocket
 Requires at least: 3.5.1
 Tested up to: 3.5.1
 Stable tag: 0.5
-Donate link: http://comicrocket.com/donatepage
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-Short one line description here
+Easily include Comic Rocket's network ad box on your webcomic!
 
 
 == Description ==
 
-Comic Easel Website: [Comic Easel](http://comiceasel.com/ "Comic Easel - Plugin your WebComic")
-Tech Support Forum: [Frumph.NET Forums](http://forum.frumph.net/ "The Forums for Frumph.NET")
+Placing ads on your webcomic just got super easy!
 
-Put your LONG description here
+This plugin is a widget that lets you drop a **Comic Rocket ad box** into
+one of your webcomic's sidebars. It handles the HTML so you don't have to
+deal with coding the changes to your theme.
 
+Not a member of the Comic Rocket ad network yet? It's easy to sign up. Join
+the [**Comic Rocket ad network**](https://www.comic-rocket.com/ads/publisher/)!
 
-== Frequently Asked Questions ==
+[**Comic Rocket**](https://www.comic-rocket.com/) is the best place to
+find, read, and bookmark online comics. Now we want to help creators earn
+money!
 
-Comic Easel Website, Troubleshoot Page: [Comic Easel](http://comiceasel.com/faqs/troubleshoot/ "Comic Easel - Plugin your Website - Troubleshooting Comic Easel")
+Is your comic not on **Comic Rocket** yet? [Add it here!](https://www.comic-rocket.com/new/)
 
-= The permalinks are not working to go to the comic =
-
-Go to your settings -> permalinks and just click save, the wp_rewrite will refresh.  You need to go to the settings -> permalinks if you ever upgrade enable or disable the Comic Easel plugin.
-
-= Where is Comic Easel's navigation widget? =
-
-The comic navigation widget is only seen if you have the comic sidebar's enabled; even then it only works in the comic sidebars themself, nowhere else.
+If you have any questions just email <mailto:andy@comic-rocket.com> for answers.
 
 
 == Changelog ==
+
 = 0.5 =
-Release
 
-
-
-
-
-
+Initial Release

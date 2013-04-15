@@ -1,13 +1,13 @@
 <?php
 /*
-Plugin Name: Comic Rocket
-Plugin URI: http://comicrocket.com
-Description: Needs Description
+Plugin Name: Comic Rocket Ad Network Plugin
+Plugin URI: https://www.comic-rocket.com/
+Description: Easily include Comic Rocket's network ad box on your webcomic!
 Version: 0.5
 Author: Philip M. Hofer (Frumph)
 Author URI: http://frumph.net/
 
-Copyright 2012 Philip M. Hofer (Frumph)  (email : philip@frumph.net)
+Copyright 2013 Philip M. Hofer (Frumph)  (email : philip@frumph.net)
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
